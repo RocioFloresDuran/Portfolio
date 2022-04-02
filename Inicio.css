@@ -1,31 +1,19 @@
 
 header{
-    width: 70%;
-    height: 20%;
     background-color: blueviolet;
-    margin-left: 15%;
-    margin-right: 15%;
-    border-color: #000000;
+    border-color: black;
     border-style:solid;
     text-align: center;
 }
 
 section{
-    width: 70%;
-    height: 20%;
     background-color:lightpink;
-    margin-left: 15%;
-    margin-right: 15%;
     border-color: black;
     border-style:solid;
 }
 
 footer{
-    width: 70%;
-    height: 50px;
     background-color: blueviolet;
-    margin-left: 15%;
-    margin-right: 15%;
     border-color: black;
     border-style:solid;
     text-align: center;
